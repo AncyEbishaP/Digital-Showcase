@@ -1,0 +1,26 @@
+#home{
+    height: 820px;
+}
+
+
+.image{
+    width: 35%;
+    height: 40%;
+    position: absolute;
+    bottom: 0;
+    left: 35%;
+}
+.dtel{
+    margin-left: 22%;
+    margin-top: 15%;
+}
+
+.dp img{
+    height: 45%;
+    position: absolute;
+    left: 85%;
+    top: 0;
+    transform: translateX(-50%);
+
+}
+
