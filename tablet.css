@@ -1,0 +1,38 @@
+nav{
+    display: flex;
+    width: 100%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between ;
+}
+
+
+.image{
+    width: 45%;
+    height: 65%;
+    position: absolute;
+    bottom: 0;
+    left: 65px;
+}
+
+
+.dtel{
+    margin-left: 58%;
+    margin-top: 25%;
+}
+.dtel h1{
+    font-size: 30px;
+    color: black;
+    margin-bottom: 20px;
+
+}
+.dp img{
+    height: 65%;
+    position: absolute;
+    left: 75%;
+    top: 0;
+    transform: translateX(-50%);
+
+}
+
